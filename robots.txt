@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.github.io/justice-surya-kant-top-20-landmark-judgments/sitemap.xml
